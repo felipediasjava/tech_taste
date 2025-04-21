@@ -1,4 +1,4 @@
-# tech_taste
+# TechTaste (Develop)
 Alura - Imersão mobile em flutter: Delivery App TechTaste
 
 Link: https://www.alura.com.br/imersao-mobile
